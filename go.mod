@@ -1,4 +1,4 @@
-module auth_api_v1
+module github.com/croked91/auth_api_v1
 
 go 1.22.0
 
